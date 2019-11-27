@@ -1,0 +1,60 @@
+body {
+    background-image:url(Image/ryan-schroeder-Gg7uKdHFb_c-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    
+        
+    
+        
+}
+
+.Entete {
+    
+    justify-content: flex-end;
+    display: flex;
+    color: aliceblue;
+    font-size: 30px;
+    height: 100px
+    
+    
+}
+
+
+.Tortue{
+
+    height: 100px;
+         
+}
+
+
+.tortuetext {
+    
+
+    padding-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 30px;
+    
+    
+        
+}
+
+.Page1 {
+    margin: auto;
+    margin-right: 10px;
+}
+
+.Page2 {
+    margin: auto;
+    margin-right: 10px;
+    margin-left: 10px
+        
+}
+
+.Page3 {
+    margin: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
